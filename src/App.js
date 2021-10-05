@@ -1,9 +1,9 @@
 import './App.scss';
-
+import SummaryCardContainer from './components/SummaryCardContainer';
 function App() {
   return (
     <div className='App'>
-      <h1>Hey</h1>
+      <SummaryCardContainer />
     </div>
   );
 }
