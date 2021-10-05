@@ -2,7 +2,9 @@ html {
   font-size: 100%;
   box-sizing: border-box;
   background-image: url('../images/pattern-background-desktop.svg');
+  background-size: cover;
   background-repeat: no-repeat;
+  background-color: $pale-blue;
 }
 
 *,
