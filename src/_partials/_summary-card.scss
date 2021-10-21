@@ -5,11 +5,20 @@
     margin-top: 102px;
     margin-bottom: 101px;
     background: $white;
+    height: 43.56rem;
   }
 
   &__hero {
     max-width: 100%;
     max-height: 100%;
     object-fit: contain;
+  }
+  &__title {
+    margin-top: 2.8125rem;
+    margin-right: 3rem;
+    margin-left: 3rem;
+    margin-bottom: 1.0625rem;
+    font-size: 28px;
+    font-weight: 400;
   }
 }
